@@ -4,6 +4,6 @@ Pada pembahasan ini, saya akan mencoba untuk :
 
 Ada tambahan sedikit
 
-fitur 1 :
+fitur 2 :
 belajar mengenai view
 
