@@ -3,8 +3,7 @@ Pada pembahasan ini, saya akan mencoba untuk :
 2. mengedit baris kalimat yang telah ditambahkan
 
 Ada tambahan sedikit
-
-
-
-belajar mengenai view
+1. belajar mengenai views
+2. belajar mengenai controller
+3. belajar mengenai modul dan database
 
