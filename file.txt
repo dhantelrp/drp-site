@@ -4,3 +4,6 @@ Pada pembahasan ini, saya akan mencoba untuk :
 
 Ada tambahan sedikit
 
+fitur 1 :
+belajar mengenai view
+
