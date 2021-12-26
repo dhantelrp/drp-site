@@ -7,3 +7,4 @@ Ada tambahan sedikit
 2. belajar mengenai controller
 3. belajar mengenai modul dan database
 
+Usulan 1
