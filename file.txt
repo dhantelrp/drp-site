@@ -1,3 +1,5 @@
 Pada pembahasan ini, saya akan mencoba untuk :
 1. menambahkah beberapa baris kalimat
 2. mengedit baris kalimat yang telah ditambahkan
+
+Ada tambahan sedikit
